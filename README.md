@@ -9,7 +9,7 @@
 6. Open `http://localhost:3000` in your browser
 
 ## Project Summary
-Our project models a cloud service provider, offering customers the ability to create and manage projects. Users can utilize various services, create and manage instances, configure security settings for them and also compute the total costs associated with their cloud service usage.
+The project models a cloud service provider, offering customers the ability to create and manage projects. Users can utilize various services, create and manage instances, configure security settings for them and also compute the total costs associated with their cloud service usage.
 
 ## Frontend Views
 - [Login Page](./docs/frontend_views/LoginPage.png)
